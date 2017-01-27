@@ -1,0 +1,14 @@
+{
+  "name": "frontEnd",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "ejs": "~2.5.5"
+  }
+}
